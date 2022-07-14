@@ -22,4 +22,3 @@ watch youtube video [here](https://www.youtube.com/watch?v=FhznxmQuIKc)
 		<td> Green </td>
 		<td> blue </td>
 	</tr>
-</table>
