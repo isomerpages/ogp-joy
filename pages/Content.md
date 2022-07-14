@@ -7,12 +7,6 @@ description: ""
 
 watch youtube video [here](https://www.youtube.com/watch?v=FhznxmQuIKc)
 
-
-<style>
-	table {
-		border: 1px solid black
-	}
-</style>
 <table> 
 	<tr> 
 		<td> one </td>
